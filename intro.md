@@ -2,7 +2,7 @@
 
 ## Extra Resources for Backend Dev
 
-These references were built to help Makers completing DIY's [Backend Dev Skill](http://www.diy.org/skills/backenddev). You can find the repo for these pages [on GitHub](http://www.github.com/diy). 
+These references were built to help Makers completing DIY's [Backend Dev Skill](http://www.diy.org/skills/backenddev). You can find the repo for these pages [on GitHub](http://www.github.com/diy/backenddev). 
 
 * Learn the [basics of backend development](http://beddev.herokuapp.com/challenge/1) and Node.js.
 * We wrote a [simple server](http://beddev.herokuapp.com/challenge/2) you can use to get an understanding of how servers and browsers talk.
