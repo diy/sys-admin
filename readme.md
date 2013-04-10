@@ -1,10 +1,10 @@
-# Backend Dev Supplemental Resource Pages
+# Sys Admin Supplemental Resource Pages
 
-Pages that we created to aid in the [Backend Dev Skill](https://diy.org/skills/backenddev).
+Pages that we created to aid in the [Sys Admin Skill](https://diy.org/skills/sysadmin).
 
 ## Simply Speaking
 
-The raw markdown files for each challenge can be found in the [contents folder](https://github.com/diy/server-side-dev.diy.org/tree/master/content).
+The raw markdown files for each challenge can be found in the [contents folder](https://github.com/diy/sys-admin.diy.org/tree/master/content).
 
 ## Technically Speaking
 
