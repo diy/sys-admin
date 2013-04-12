@@ -8,7 +8,7 @@ These references were built to help Makers completing DIY's [Sys Admin Skill](ht
 * Get the latest software updates for your VM Ubuntu
 * See what's running on your VM with htop
 * Control what goes out and in of your server with a firewall
-* Write a shell script to backup your VM
-* Automate a common task with a shell script 
+* Write a shell script
+* Write a shell script to back up your files
 * Create a cron job - crazy
 * Set up a Web Server
